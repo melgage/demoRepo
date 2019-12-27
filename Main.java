@@ -10,6 +10,7 @@ import java.util.Scanner;
 // Seven
 // Eight
 // Nine
+// Ten
 
 public class Main {
 
