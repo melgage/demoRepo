@@ -1,17 +1,7 @@
 package com.smartbear.demo;
 import java.util.Scanner;
 
-// Change one
-// Change Two
-// Change Three
-// Four
-// Five
-// Six
-// Seven
-// Eight
-// Nine
-// Ten
-// Eleven
+
 
 public class Main {
 
