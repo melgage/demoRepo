@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 // Change One
 
-public class Main {
+public class Fibo {
 
 		   
     // Recursion
