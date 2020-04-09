@@ -1,9 +1,6 @@
 package com.smartbear.demo;
 import java.util.Scanner;
 
-// Change One
-// Change Two 
-
 public class Main {
 
 		   
