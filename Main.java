@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 // Java developemnt file
 // Change One.Rev1
+// Change Two.Rev2
 
 public class Main {
 
@@ -13,7 +14,7 @@ public class Main {
             return 1;
         }
 
-        return fibonacciRecursion(number-1) + fibonacciRecursion(number -2); //tail recursion
+        return fibonacciRecursion(number-1) + fibonacciRecursion(number -2); //tail recursion This is fine
     }
 
     // Java program for Fibonacci number using Loop.
@@ -24,7 +25,7 @@ public class Main {
         long fibo1=1,
 	     fibo2=1,
 	     fibonacci=1;
-        for(int i= 3; i<= number; i++){
+        for(int i= 4; i<= number; i++){
             fibonacci = fibo1 + fibo2; //Fibonacci number is sum of previous two Fibonacci number
             fibo1 = fibo2;
             fibo2 = fibonacci;
