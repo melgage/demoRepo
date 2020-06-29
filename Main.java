@@ -2,7 +2,11 @@ package com.smartbear.demo;
 import java.util.Scanner;
 
 // Java development file
+<<<<<<< .mine
 // Initial commit.Revision 1
+=======
+// Initial commit
+>>>>>>> .theirs
 
 public class Main {
 
