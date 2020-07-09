@@ -8,6 +8,8 @@ import java.util.Scanner;
 // Initial commit
 >>>>>>> .theirs
 
+// Change ONe
+
 public class Main {
 
     // Recursion
