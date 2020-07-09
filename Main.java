@@ -8,7 +8,7 @@ import java.util.Scanner;
 // Initial commit
 >>>>>>> .theirs
 
-// Change ONe
+// Change ONe.Rev1
 
 public class Main {
 
