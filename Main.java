@@ -2,7 +2,9 @@ package com.smartbear.demo;
 import java.util.Scanner;
 
 // Java development file
-// Initial commit
+// Initial commit - new
+
+
 
 public class Main {
 
@@ -25,7 +27,6 @@ public class Main {
             fibonacci = fibo1 + fibo2; //Fibonacci number is sum of previous two Fibonacci number
             fibo1 = fibo2;
             fibo2 = fibonacci;
-
         }
         return fibonacci; //Fibonacci number
     }
