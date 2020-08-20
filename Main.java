@@ -3,19 +3,6 @@ import java.util.Scanner;
 
 // Java development file
 // Initial commit
-// Test One
-// Test Two
-// Test Three
-// Test Four
-// Test Five
-// Test Six
-// Test Seven
-// Test Eight
-// Test Nine
-// Test Ten
-// Test Eleven
-// Test Twelve
-
 
 public class Main {
 
