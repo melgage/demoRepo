@@ -2,10 +2,7 @@ package com.smartbear.demo;
 import java.util.Scanner;
 
 // Java development file
-// Initial commit - new
-// Change One.Rev 1
-
-
+// Initial commit
 
 public class Main {
 
@@ -15,7 +12,7 @@ public class Main {
             return 1;
         }
 
-        return fibonacciRecursion(number-1) + fibonacciRecursion(number -2); //tail recursion
+        return fibonacciRecusion(number-1) + fibonacciRecusion(number -2); //tail recursion
     }
 
     // Java program for Fibonacci number using Loop.
