@@ -9,6 +9,7 @@ import java.util.Scanner;
 // Test Change Four
 // Change Five
 // Six
+// Seven
 
 public class Main {
 
