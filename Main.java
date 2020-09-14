@@ -3,11 +3,6 @@ import java.util.Scanner;
 
 // Java development file
 // Initial commit
-// test Change
-// Test Change Two
-// Test Change Three
-// Test Change Four
-// Change Five
 
 public class Main {
 
