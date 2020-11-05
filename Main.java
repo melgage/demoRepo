@@ -5,7 +5,7 @@ import java.util.Scanner;
 // Initial commit
 // 
 //
-// Test
+//
 
 public class Main {
 
