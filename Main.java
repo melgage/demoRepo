@@ -6,6 +6,7 @@ import java.util.Scanner;
 // 
 // Change One. Rev 1
 //
+//
 
 public class Main {
 
