@@ -1,6 +1,6 @@
 // A rotating and scaling rectangle.
 //
-// Test One
+// Change One
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
