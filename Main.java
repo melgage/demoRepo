@@ -9,7 +9,6 @@ import java.util.Scanner;
 // 
 // 
 
-
 public class Main {
 
     // Recursion
@@ -17,7 +16,7 @@ public class Main {
         if(number == 1 || number == 2){
             return 1;
         }
-        return fibonacciRecusion(number-1) + fibonacciRecusion(number -2); //tail recursion
+        return fibonacciRecusion(number-1) + fibonacciRecurion(number -2); //tail recursion
     }
 
     // Java program for Fibonacci number using Loop.
