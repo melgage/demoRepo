@@ -1,3 +1,5 @@
+#COMMENT
+
 SELECT
 	 r.review_id AS `reviewid`
 	,r.review_title AS `reviewtitle`
