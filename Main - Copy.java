@@ -8,7 +8,6 @@ import java.util.Scanner;
 //
 // Change One
 // 
-// 
 
 public class Main {
 
