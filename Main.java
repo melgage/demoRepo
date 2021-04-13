@@ -5,7 +5,7 @@ import java.util.Scanner;
 // Initial commit
 // 
 // 
-// Change One Rev 1
+// 
 // 
 
 public class Main {
@@ -15,7 +15,7 @@ public class Main {
         if(number == 1 || number == 2){
             return 1;
         }
-        return fibonacciRecursion(number-1) + fibonacciRecursion(number -2); //tail recursion
+        return fibonacciRecusion(number-1) + fibonacciRecusion(number -2); //tail recursion
     }
 
     //
@@ -25,9 +25,7 @@ public class Main {
         if(number == 1 || number == 2){
             return 1;
         }
-        long fibo1=1,
-             fibo2=1,
-             fibonacci=1;
+        long fibo1=1,fibo2=1,fibonacci=1;
         for(int i= 3; i<= number; i++){
             fibonacci = fibo1 + fibo2; //Fibonacci number is sum of previous two Fibonacci number
             fibo1 = fibo2;
