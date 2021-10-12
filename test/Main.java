@@ -3,13 +3,9 @@ import java.util.Scanner;
 
 // Java development file
 // Initial commit
-//
-//
-//
-//
-//
-//
- 
+// Change A
+// Change B
+// 
 
 public class Main {
 
