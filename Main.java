@@ -4,10 +4,10 @@ import java.util.Scanner;
 // Java development file
 //	 Initial commit
 //
-// Commit 02
-// Commit 03
-// Commit 04
-// Commit 05
+//
+//
+//
+//
 //
 public class Main {
 
@@ -18,9 +18,6 @@ public class Main {
         }
         return fibonacciRecusion(number-1) + fibonacciRecusion(number -2); //tail recursion
     }
-//
-//
-//
 //
     // Java program for Fibonacci number using Loop.
     public static long fibonacciLoop(int number){
