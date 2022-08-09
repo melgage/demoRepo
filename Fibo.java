@@ -4,7 +4,7 @@ import java.util.Scanner;
 // Java development file
 //	 Initial commit
 //
-// Change One
+//
 //
 //
 public class Main {
